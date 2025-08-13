@@ -170,3 +170,6 @@ outputs/
 config.ini
 secrets.yaml
 .secrets
+
+# Repository management files
+suggested_repository_names.txt
