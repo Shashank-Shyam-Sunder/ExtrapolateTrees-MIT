@@ -172,4 +172,4 @@ secrets.yaml
 .secrets
 
 # Repository management files
-suggested_repository_names.txt
+/suggested_repository_names.txt
