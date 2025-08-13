@@ -9,11 +9,12 @@ This repository is organized as follows:
 ```
 Extrapolation-MIT/
 ├── README.md (this file)
+├── .gitignore                                          # Root-level git ignore rules
 └── Stochastic-Threshold-Model-Trees-master_updated/    # Main project directory
     ├── README.md                                       # Detailed project documentation
     ├── LICENSE.txt                                     # MIT License
     ├── setup.py                                        # Package installation script
-    ├── .gitignore                                      # Git ignore rules
+    ├── .gitignore                                      # Project-level git ignore rules
     ├── stmt/                                          # Core Python package
     │   ├── __init__.py                                # Package initialization
     │   ├── criterion.py                               # Splitting criteria implementations
